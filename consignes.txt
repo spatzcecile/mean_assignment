@@ -1,0 +1,10 @@
+1) Build a python server (Flask).
+
+2) Given a given sequence in GET, it returns the mean.
+
+3) Dockerize.
+
+4) Write tests :
+- The site works (200 OK);
+- The output is correct (given (1,2,3) return 2);
+- Stress (send 1000 request server, avg time to reply should be less than 100 ms).
